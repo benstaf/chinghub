@@ -112,7 +112,7 @@ const About: FC = () => {
         <Heading>Global pandemic, global solutions</Heading>
 
         <SubText>
-          COVIND accelerates <b> global pooling</b> of individual patient data, and research projects mining it. COVIND has a cool community of doctors, data scientists and other partners excited about working together.
+          COVIND accelerates <b> global pooling</b> of individual patient data, and research projects based on them. COVIND has a cool community of doctors, data scientists and other partners excited about working together.
         </SubText>
 
         <StyledLink to="/projects_list" title={`${siteMetadata.title} projects`}>
