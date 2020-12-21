@@ -38,14 +38,14 @@ module.exports = Object.freeze({
   siteMetadata: {
     /** The name of the website. */
     title: 'Chinghub: Precision medicine hub',
-    titleShort: 'Chinghub',
+    titleShort: 'Chinghub;fsfks;l',
     /** Release version of website. */
     version: pkg.version,
     /** Text to be shown in the landing page heading. */
-    tag: 'Chinghub',
+    tag: 'Precision medicine research consortium & marketplace',
     /** The description of the website. */
     description:
-      'Chinghub is an immunotherapy and precision medicine hub, bringing together ',
+      'Chinghub is a precision medicine (精准医学 <i> Ching-mi yichue </i> in Chinese) hub bringing together data and technologies, patient recruitment for clinical trials, and access to funding from private investors.',
     /** The url of the website. */
     siteUrl: process.env.BUILD_SITE_URL,
     logo: path.resolve(__dirname, 'src/images/logo.png'),

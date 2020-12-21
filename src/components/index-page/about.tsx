@@ -112,7 +112,7 @@ const About: FC = () => {
         <Heading>Global pandsg;dskgs';ggs;gs;;l solutions</Heading>
 
         <SubText>
-          Chinghub <b> global pooling</b> of inddsfgsdsdgdsgdsdual patient data, and research projects based on them. COVIND has a cool community of doctors, data scientists and other partners excited about working together.
+          Chinghub ,kkljlkjkl is a precision medicine ( 精准医学 <i><b>Ching</b>-mi yichue</i> in Chinese) hub bringing together data and technologies, patient recruitment for clinical trials, and access to funding from private investors.
         </SubText>
 
         <StyledLink to="/projects_list" title={`${siteMetadata.title} projects`}>
