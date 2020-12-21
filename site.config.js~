@@ -45,7 +45,7 @@ module.exports = Object.freeze({
     tag: 'Individual Patient Data Consortium',
     /** The description of the website. */
     description:
-      'COVIND is a global registry of COVID-19 individual patient data, and of collective projects for their exploration',
+      'COVIND is a global registry of COVID-19 individual patient data, and of collective projects exploring them',
     /** The url of the website. */
     siteUrl: process.env.BUILD_SITE_URL,
     logo: path.resolve(__dirname, 'src/images/logo.png'),

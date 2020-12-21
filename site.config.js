@@ -37,15 +37,15 @@ module.exports = Object.freeze({
    */
   siteMetadata: {
     /** The name of the website. */
-    title: 'COVIND: COVID-19 individual patient data consortium',
-    titleShort: 'COVIND',
+    title: 'Chinghub: Precision medicine hub',
+    titleShort: 'Chinghub',
     /** Release version of website. */
     version: pkg.version,
     /** Text to be shown in the landing page heading. */
-    tag: 'Individual Patient Data Consortium',
+    tag: 'Chinghub',
     /** The description of the website. */
     description:
-      'COVIND is a global registry of COVID-19 individual patient data, and of collective projects exploring them',
+      'Chinghub is an immunotherapy and precision medicine hub, bringing together ',
     /** The url of the website. */
     siteUrl: process.env.BUILD_SITE_URL,
     logo: path.resolve(__dirname, 'src/images/logo.png'),
