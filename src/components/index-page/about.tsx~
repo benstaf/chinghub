@@ -112,7 +112,24 @@ const About: FC = () => {
         <Heading>Global pandsg;dskgs';ggs;gs;;l solutions</Heading>
 
         <SubText>
-          Chinghub ,kkljlkjkl is a precision medicine ( 精准医学 <i><br>Ching</br>-mi yichue</i> in Chinese) hub bringing together data and technologies, patient recruitment for clinical trials, and access to funding from private investors.
+          Chinghub ,kkljlkjkl is a precision medicine ( 精准医学 <i><b>Ching</b>-mi yichue</i> in Chinese) hub bringing together data and technologies, patient recruitment for clinical trials, and access to funding from private investors.
+        </SubText>
+
+        <StyledLink to="/projects_list" title={`${siteMetadata.title} projects`}>
+          See projects by members
+          <LinkImage />
+        </StyledLink>
+      </Text>
+
+      <ImageWrapper>
+        <Image />
+      </ImageWrapper>
+
+      <Text>
+        <Heading> solutions</Heading>
+
+        <SubText>
+           ,kkljlkjkl is a precision mringing together data and technologies, patient recruitment for clinical trials, and access to funding from private investors.
         </SubText>
 
         <StyledLink to="/projects_list" title={`${siteMetadata.title} projects`}>
@@ -125,6 +142,7 @@ const About: FC = () => {
         <Image />
       </ImageWrapper>
     </Wrapper>
+
   );
 };
 

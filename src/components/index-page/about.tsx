@@ -125,6 +125,8 @@ const About: FC = () => {
         <Image />
       </ImageWrapper>
     </Wrapper>
+
+ 
   );
 };
 

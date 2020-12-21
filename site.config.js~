@@ -42,10 +42,10 @@ module.exports = Object.freeze({
     /** Release version of website. */
     version: pkg.version,
     /** Text to be shown in the landing page heading. */
-    tag: 'Precision medicine research consortium & marketplace',
+    tag: 'Precision medicine consortium & marketplace',
     /** The description of the website. */
     description:
-      'Chinghub is a precision medicine (精准医学 <i> Ching-mi yichue </i> in Chinese) hub bringing together data and technologies, patient recruitment for clinical trials, and access to funding from private investors.',
+      'Chinghub is a research network about immunotherapy and precision medicine',
     /** The url of the website. */
     siteUrl: process.env.BUILD_SITE_URL,
     logo: path.resolve(__dirname, 'src/images/logo.png'),
