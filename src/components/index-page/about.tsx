@@ -109,7 +109,7 @@ const About: FC = () => {
   return (
     <Wrapper>
       <Text>
-        <Heading>Global pandemic, global solutions</Heading>
+        <Heading>Global pandsg;dskgs';ggs;gs;;l solutions</Heading>
 
         <SubText>
           Chinghub <b> global pooling</b> of inddsfgsdsdgdsgdsdual patient data, and research projects based on them. COVIND has a cool community of doctors, data scientists and other partners excited about working together.
