@@ -27,7 +27,7 @@ const AboutPage: FC = () => {
             Chinghub is a hub of precision medicine, and of collective projects exploring them
           </p>
           <p>
-            Chinghub is a hub of precision medicine, and research projects based on them. COVIND has a cool community of doctors, data scientists and other partners excited about working together.
+            Chinghub is a hub of precision medicine, and research projects based on them. Chinghub is greay community of doctors, data scientists and other partners excited about working together.
           </p>
         </PageBody>
       </Container>
